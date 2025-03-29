@@ -148,7 +148,8 @@ inventory-management-MERN /
 ## Setup
 1. Clone the repository.
     ```bash
-    git clone https://github.com/Sam21sop/inventory-management-MERN.git 
+    git clone https://github.com/Mohit-kumar123/Inventory-Managemnet.git
+    
 2. Navigate to the project directory.
     ```bash 
     cd inventory-management-MERN
